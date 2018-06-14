@@ -1,3 +1,11 @@
-body {
-  background: url(MillionaireResort.jpg);
+p {
+  font-size: 1.5em;
+  color: #FE7F88;
+  background-image: url("file:///C:/Users/Sarah/desktop/Moringa/Resort-project/MillionaireResort.jpeg");
+  background-color: transparent;
+}
+
+div {
+  background-image:
+      url("MillionaireResort.jpeg");
 }
