@@ -1,3 +1,4 @@
+
 p {
   font-size: 1.5em;
   color: #ffffff;
@@ -8,18 +9,10 @@ p {
 div {
   background-image:
       url("MillionaireResort.jpeg");
-      /* Container holding the image and the text */
-      .container {
-          position: relative;
-      }
+    }
 
-      /* Bottom right text */
-      .text-block {
-          position: absolute;
-          bottom: 20px;
-          right: 20px;
-          background-color: black;
-          color: white;
-          padding-left: 20px;
-          padding-right: 20px;
-      }
+.bar {
+  width: 30%;
+  float: right;
+  background-color: teal;
+}
